@@ -1,5 +1,5 @@
 <h3 align="center"> 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=80CAFF&height=250&section=header&text=Welcome%20 to my page&fontColor=FFFFFF&fontSize=60" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=80CAFF&height=250&section=header&text=Hi there!%20 Welcome!&fontColor=FFFFFF&fontSize=60" />
 </h3>
 <h2 align="center"> 💙ABOUT ME💙
 <br>
