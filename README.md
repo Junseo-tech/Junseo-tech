@@ -1,8 +1,10 @@
 <h3 align="center"> 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=80CAFF&height=250&section=header&text=Welcome%20 to my page&fontColor=FFFFFF&fontSize=60" />
 </h3>
-<h2 align="center"> 💙ABOUT ME💙</h2>
-
+<h2 align="center"> 💙ABOUT ME💙
+<br>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJunseo-tech&count_bg=%23B5E2FE&title_bg=%235098EA&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+</h2>
 <p align="center">
 <h3 align="center">
 👋🏻 Hi! 𝖬𝗒 𝗇𝖺𝗆𝖾 𝖨𝗌 𝐉𝐮𝐧𝐬𝐞𝐨 
@@ -17,6 +19,8 @@
 📚 𝖨 𝗅i𝗄𝖾 𝗍𝗈 𝗌𝗍𝗎𝖽𝗒 𝖣𝖺𝗍𝖺 𝖲𝗍𝗋𝗎𝖼𝗍𝗎𝗋𝖾
 <br>
 📝 𝖸𝗈𝗎 𝖼𝖺𝗇 𝗌𝖾𝖾 𝗆𝗒 [𝖡𝖫𝖮𝖦]
+<br>
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:pwnstj1819@gmail.com)
 <br><br><br><br>
 <h2 align="center">☾⋆⁺₊⋆💙 What i can do is 💙☾⋆⁺₊⋆</h2>
  <p align="center">
@@ -38,6 +42,6 @@
 </p>
 <br>
 <h2 align="center">☾⋆⁺₊⋆💙 Statics 💙☾⋆⁺₊⋆</h2>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wnstj1128)](https://solved.ac/wnstj1128/)
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wnstj1128">
 </h3>
 </p>
