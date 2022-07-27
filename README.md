@@ -38,7 +38,6 @@
 </p>
 <br>
 <h2 align="center">☾⋆⁺₊⋆💙 Statics 💙☾⋆⁺₊⋆</h2>
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=wnstj1128)](https://solved.ac/wnstj1128)
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj={wnstj1128})](https://solved.ac/{wnstj1128})
 </h3>
 </p>
