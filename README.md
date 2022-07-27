@@ -20,9 +20,11 @@
 <br>
 📝 𝖸𝗈𝗎 𝖼𝖺𝗇 𝗌𝖾𝖾 𝗆𝗒 [𝖡𝖫𝖮𝖦]
 <br>
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:pwnstj1819@gmail.com)
-<br><br><br><br>
-<h2 align="center">☾⋆⁺₊⋆💙 What i can do is 💙☾⋆⁺₊⋆</h2>
+📫 𝖸𝗈𝗎 𝖼𝖺𝗇 𝖼𝗈𝗇𝗍𝖺𝖼𝗍 📫 <br>
+<a href="mailto:pwnstj1819@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logoGmail&logoColor=white" ></a>
+<a href="mailto:wnstj1128@naver.com" target="_blank"><img src="https://img.shields.io/badge/Naver-2DB400?style=flat-square&logoNaver&logoColor=white" ></a>
+<br><br><br>
+<h2 align="center">☾⋆⁺₊⋆💙 What I can do is 💙☾⋆⁺₊⋆</h2>
  <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/>&nbsp
@@ -41,7 +43,10 @@
   <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white">
 </p>
 <br>
-<h2 align="center">☾⋆⁺₊⋆💙 Statics 💙☾⋆⁺₊⋆</h2>
+<h2 align="center">💙 Statics 💙</h2>
+<h2 align="center">
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wnstj1128">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Junseo&layout=">
+<br>
 </h3>
 </p>
