@@ -1,19 +1,23 @@
 <h3 align="center"> 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=80CAFF&height=250&section=header&text=Welcome%20 to my page&fontColor=FFFFFF&fontSize=60" />
 </h3>
-<h2 align="center"> 🤍ABOUT ME🤍</h2>
+<h2 align="center"> 💙ABOUT ME💙</h2>
 
 <p align="center">
 <h3 align="center">
 👋🏻 Hi! 𝖬𝗒 𝗇𝖺𝗆𝖾 𝖨𝗌 𝐉𝐮𝐧𝐬𝐞𝐨 
 </h3>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Junseo-tech&theme=dark&show_icons=true)
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=Junseo" height="165">
 💻 𝙷𝚘𝚙𝚎 𝚝𝚘 𝚋𝚎 𝐖𝐞𝐛 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫
+<br>
+🏆 𝖨'm trying to 𝖻𝖾 𝖺 𝐅𝐮𝐥𝐥-𝐒𝐭𝐚𝐜𝐤 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫
 <br>
  📱 𝖠𝗅𝗌𝗈 𝖨𝗇𝗍𝖾𝗋𝖾𝗌𝗍𝖾𝖽 𝖨𝗇 𝖠𝗉𝗉 𝖽𝖾𝗏𝖾𝗅𝗈𝗉𝗆𝖾𝗇𝗍
 <br>
 📚 𝖨 𝗅i𝗄𝖾 𝗍𝗈 𝗌𝗍𝗎𝖽𝗒 𝖣𝖺𝗍𝖺 𝖲𝗍𝗋𝗎𝖼𝗍𝗎𝗋𝖾
 <br>
+📝 𝖸𝗈𝗎 𝖼𝖺𝗇 𝗌𝖾𝖾 𝗆𝗒 [𝖡𝖫𝖮𝖦]
+<br><br><br><br>
 <h2 align="center">☾⋆⁺₊⋆💙 What i can do is 💙☾⋆⁺₊⋆</h2>
  <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>&nbsp
@@ -32,5 +36,8 @@
   <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white"/>
   <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white">
 </p>
+<br>
+<h2 align="center">☾⋆⁺₊⋆💙 Statics 💙☾⋆⁺₊⋆</h2>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=wnstj1128)](https://solved.ac/wnstj1128)
 </h3>
 </p>
