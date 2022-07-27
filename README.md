@@ -6,8 +6,7 @@
 <p align="center">
 <h3 align="center">
 👋🏻 Hi! 𝖬𝗒 𝗇𝖺𝗆𝖾 𝖨𝗌 𝐉𝐮𝐧𝐬𝐞𝐨 
-</h3>
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Junseo&show_icons=true&theme=tokyonight)
+</h3>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Junseo&show_icons=true&theme=cobalt) 
 💻 𝙷𝚘𝚙𝚎 𝚝𝚘 𝚋𝚎 𝐖𝐞𝐛 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫
 <br>
  📱 𝖠𝗅𝗌𝗈 𝖨𝗇𝗍𝖾𝗋𝖾𝗌𝗍𝖾𝖽 𝖨𝗇 𝖠𝗉𝗉 𝖽𝖾𝗏𝖾𝗅𝗈𝗉𝗆𝖾𝗇𝗍
