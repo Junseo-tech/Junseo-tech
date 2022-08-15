@@ -10,7 +10,7 @@
 <h3 align="center">
 👋🏻 Hi! 𝖬𝗒 𝗇𝖺𝗆𝖾 𝖨𝗌 𝐉𝐮𝐧𝐬𝐞𝐨 
 </h3>
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=Junseo" height="165">
+<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=junseo-tech&layout=compact&theme=buefy" width="300" height="150">
 💻 𝙷𝚘𝚙𝚎 𝚝𝚘 𝚋𝚎 𝐖𝐞𝐛 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫
 <br>
 🏆 𝖨'm trying to 𝖻𝖾 𝖺 𝐅𝐮𝐥𝐥-𝐒𝐭𝐚𝐜𝐤 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫
@@ -47,7 +47,7 @@
 <h2 align="center">💙 Statics 💙</h2>
 <h2 align="center">
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wnstj1128">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junseo-tech&layout=compact&theme=buefy" width="300" height="150">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=Junseo" height="165">
 <br>
 </h3>
 </p>
