@@ -1,5 +1,6 @@
-<h3 align="center"> 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=80CAFF&height=250&section=header&text=Hi there!%20 Welcome!&fontColor=FFFFFF&fontSize=60" />
+<h3 align="center">
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=87CEFA&height=250&section=header&text=Hi!%20Welcome!&fontSize=60&fontColor=FFFFFF)
 </h3>
 <h2 align="center"> 💙ABOUT ME💙
 <br>
@@ -46,7 +47,7 @@
 <h2 align="center">💙 Statics 💙</h2>
 <h2 align="center">
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wnstj1128">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Junseo&layout=">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junseo-tech&layout=compact&theme=buefy" width="300" height="150">
 <br>
 </h3>
 </p>
