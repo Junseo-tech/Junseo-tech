@@ -19,7 +19,9 @@
 <br>
 📚 𝖨 𝗅i𝗄𝖾 𝗍𝗈 𝗌𝗍𝗎𝖽𝗒 𝖣𝖺𝗍𝖺 𝖲𝗍𝗋𝗎𝖼𝗍𝗎𝗋𝖾
 <br>
-📝 𝖸𝗈𝗎 𝖼𝖺𝗇 𝗌𝖾𝖾 𝗆𝗒 [𝖡𝖫𝖮𝖦]
+📝 You can see my <a href="https://velog.io/@wnstj1128/posts">[BLOG]</a>
+
+
 <br>
 📫 𝖸𝗈𝗎 𝖼𝖺𝗇 𝖼𝗈𝗇𝗍𝖺𝖼𝗍 📫 <br>
 <a href="mailto:pwnstj1819@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logoGmail&logoColor=white" ></a>
